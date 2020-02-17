@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TaskATW</string>
+    <string name="user_image">User Image</string>
+    <string name="large_image">Large Image</string>
+    <string name="like" />
+    <string name="_280_likes">280 likes</string>
+    <string name="code">Code</string>
+    <string name="message">Message</string>
+    <string name="error">Error</string>
+</resources>
