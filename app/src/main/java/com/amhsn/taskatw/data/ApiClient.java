@@ -21,7 +21,6 @@ public class ApiClient {
         if (null == INSTANCE){
             INSTANCE = new ApiClient();
         }
-
         return INSTANCE;
     }
 
